@@ -1,0 +1,3 @@
+python v3.13.3
+pip v25.1.1
+simple_colors v0.1.5
